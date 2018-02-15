@@ -1,10 +1,6 @@
 package support;
-/* APi = https://dtucker.co.uk/hack/data-driven-restful-api-testing-for-java.html
- * https://github.com/intuit/karate
- * https://bitbucket.org/asomov/snakeyaml/wiki/Documentation
- * DataBase = https://rmpestano.github.io/dbunit-rules-sample/dbunit-rules.html
- * 
- */
+
+ 
 import org.openqa.selenium.By;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebElement;
